@@ -1,0 +1,3 @@
+TxQuery is created and owned by Alfonso Moreno.  He has stopped the development of TxQuery for years.  However, there are many Delphi developers still using TxQuery.  A barrier for TxQuery migrating to Delphi 2009 and 2010 is the introduction of Unicode.
+
+I contact Alfonso Moreno on Nov 17, 2009 to ask if he may consider make TxQuery open source and let this great product continue enhanced by the Delphi community.  He finally agree and I wish to say big "Thank You" for his contribution.
